@@ -44,7 +44,7 @@ Proyecto para mover los ojos en sincronía con el movimimento del mouse en la pa
 
 ## :sparkles: Caracteristicas ##
 
-:heavy_check_mark: Los ojos se construyen con ...;\
+:heavy_check_mark: Los cambios en el movimiento de los ojos se realizan manipulando elementos del DOM con JavaScript. 
 
 ## :rocket: Tecnologias ##
 
@@ -65,7 +65,7 @@ $ git clone https://github.com/betoje/0108-EyesMovement
 # Acceda al directorio
 $ cd 0108-EyesMovement
 
-# Arrastre el archvo index.html a su navegador de elección
+# Arrastre el archvo index.html a su navegador de elección.
 ```
 
 ## :memo: Licencia ##

@@ -60,7 +60,7 @@ Antes de empezar :checkered_flag:, se necesita tener [Git](https://git-scm.com) 
 
 ```bash
 # Clone este proyecto (desde la terminal)
-$ git clone https://github.com/betoje/0108-EyesMovement
+$ git git@github.com:betoje/0108-EyeMovement.git
 
 # Acceda al directorio
 $ cd 0108-EyesMovement

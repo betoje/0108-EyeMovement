@@ -27,26 +27,26 @@
 
 
 <p align="center">
-  <a href="#dart-about">Acerca de</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Características</a> &#xa0; | &#xa0;
+  <a href="#dart-about">Acerca</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Caracteristicas</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Tecnologías</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requerimientos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Instrucciones de uso</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Instrucciones</a> &#xa0; | &#xa0;
   <a href="#memo-license">Licencia</a> &#xa0; | &#xa0;
-  <a href="https://github.com/betoje" target="_blank">Author</a>
+  <a href="https://github.com/betoje" target="_blank">Autor</a>
 </p>
 
 <br>
 
-## :dart: Acerca de ##
+## :dart: Acerca ##
 
 Proyecto para mover los ojos en sincronía con el movimimento del mouse en la pantalla del dispositivo.
 
-## :sparkles: Características ##
+## :sparkles: Caracteristicas ##
 
 :heavy_check_mark: Los ojos se construyen con ...;\
 
-## :rocket: Tecnologías ##
+## :rocket: Tecnologias ##
 
 Los siguientes lenguajes/herramientas fueron usados en este proyecto:
 
@@ -56,7 +56,7 @@ Los siguientes lenguajes/herramientas fueron usados en este proyecto:
 
 Antes de empezar :checkered_flag:, se necesita tener [Git](https://git-scm.com) instalado.
 
-## :checkered_flag: Instrucciones de uso ##
+## :checkered_flag: Instrucciones ##
 
 ```bash
 # Clone este proyecto (desde la terminal)
@@ -68,7 +68,7 @@ $ cd 0108-EyesMovement
 # Arrastre el archvo index.html a su navegador de elección
 ```
 
-## :memo: License ##
+## :memo: Licencia ##
 
 Este proyecto está bajo la licencia de MIT. Para mayores detalles vea el archivo [LICENSE](LICENSE).
 

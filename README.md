@@ -22,17 +22,18 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/betoje/0108-EyeMovement?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/betoje/0108-EyeMovement?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/betoje/0108-EyeMovement?color=56BEB8"> -->
+
 </p>
 
 
 <p align="center">
   <a href="#dart-about">Acerca</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Caracteristicas</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Tecnologías</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requerimientos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Instrucciones</a> &#xa0; | &#xa0;
-  <a href="#memo-license">Licencia</a> &#xa0; | &#xa0;
+  <a href="#sparkles-caracteristicas">Caracteristicas</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologías</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-instrucciones">Instrucciones</a> &#xa0; | &#xa0;
+  <a href="#memo-licencia">Licencia</a> &#xa0; | &#xa0;
   <a href="https://github.com/betoje" target="_blank">Autor</a>
 </p>
 
@@ -60,10 +61,10 @@ Antes de empezar :checkered_flag:, se necesita tener [Git](https://git-scm.com) 
 
 ```bash
 # Clone este proyecto (desde la terminal)
-$ git git@github.com:betoje/0108-EyeMovement.git
+$ git clone https://github.com/betoje/0108-EyeMovement.git
 
 # Acceda al directorio
-$ cd 0108-EyesMovement
+$ cd 0108-EyeMovement
 
 # Arrastre el archvo index.html a su navegador de elección.
 ```

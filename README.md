@@ -41,7 +41,7 @@
 
 ## :dart: Acerca ##
 
-Proyecto para mover los ojos en sincronía con el movimimento del mouse en la pantalla del dispositivo.
+Proyecto para mover los ojos en sincronía con el movimimento del mouse en la pantalla del dispositivo (al mover el mouse los ojos le siguen su trayectoria).
 
 ## :sparkles: Caracteristicas ##
 

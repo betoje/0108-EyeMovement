@@ -30,6 +30,7 @@
 <p align="center">
   <a href="#dart-about">Acerca</a> &#xa0; | &#xa0; 
   <a href="#sparkles-caracteristicas">Caracteristicas</a> &#xa0; | &#xa0;
+  <a href="#boom-mejoras">Mejoras</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologías</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimientos">Requerimientos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-instrucciones">Instrucciones</a> &#xa0; | &#xa0;
@@ -46,6 +47,10 @@ Proyecto para mover los ojos en sincronía con el movimimento del mouse en la pa
 ## :sparkles: Caracteristicas ##
 
 :heavy_check_mark: Los cambios en el movimiento de los ojos se realizan manipulando elementos del DOM con JavaScript. 
+
+## :boom: Mejoras ##
+
+:ballot_box_with_check: Futuras versiones pueden ser más responsivas, adaptando el tamaño de los ojos al tamaño del dispositivo. 
 
 ## :rocket: Tecnologias ##
 
